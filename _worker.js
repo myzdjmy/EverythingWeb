@@ -1226,7 +1226,7 @@ input::-webkit-input-placeholder {
 <div class="main">
     <h1 class="logo">
     <a href="index.html">
-    <img src="https://p3-pc.douyinpic.com/img/aweme-avatar/tos-cn-i-0813_oMAAhFEQIBAM4effrKFa8UD8MHQYPBAQDEh7A2~c5_300x300.jpeg?from=2956013662">
+    <img src="http://lqjcq.com/">
     <span></span>
     </a>
     </h1>
